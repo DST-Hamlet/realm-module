@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "luahelper.base.formatErrShow": true,
+    "luahelper.Warn.CheckErrorAndAlwaysFalse": true,
+    "luahelper.Warn.CheckErrorOrAlwaysTrue": true,
+    "luahelper.Warn.CheckFloatEq": true,
+    "luahelper.Warn.CheckFunctionDuplicateParam": true,
+    "luahelper.Warn.CheckNoDefine": false,
+    "luahelper.format.use_tab": false,
+    "luahelper.base.requirePathSeparator": "/",
+}
